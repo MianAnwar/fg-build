@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/Box Checked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.8125 10.1875 13 3 14 3.96875 5.8125 12.125 2 8.3125 3 7.34375"></polygon>
+    </defs>
+    <g id="icon/Box-Checked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,12 C1,13.6568542 2.34314575,15 4,15 L12,15 C13.6568542,15 15,13.6568542 15,12 L15,4 C15,2.34314575 13.6568542,1 12,1 L4,1 Z M4,0 L12,0 C14.209139,-4.4408921e-16 16,1.790861 16,4 L16,12 C16,14.209139 14.209139,16 12,16 L4,16 C1.790861,16 2.96059473e-16,14.209139 0,12 L0,4 C-2.96059473e-16,1.790861 1.790861,2.96059473e-16 4,0 Z" id="Rectangle" fill="#979797" fill-rule="nonzero"></path>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="ion-android-done---Ionicons" fill="#338533" xlink:href="#path-1"></use>
+    </g>
+</svg>

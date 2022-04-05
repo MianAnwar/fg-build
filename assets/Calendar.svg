@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>@1xicon/Calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.5,8.5 L11.5,11.5 L8.5,11.5 L8.5,8.5 L11.5,8.5 Z M10.5,2 L12,2 L12,3 L12.75,3 C13.083335,3 13.3749987,3.12499875 13.625,3.375 C13.8750013,3.62500125 14,3.916665 14,4.25 L14,12.75 C14,13.083335 13.8750013,13.3749987 13.625,13.625 C13.3749987,13.8750013 13.083335,14 12.75,14 L3.25,14 C2.916665,14 2.62500125,13.8750013 2.375,13.625 C2.12499875,13.3749987 2,13.083335 2,12.75 L2,4.25 C2,3.916665 2.12499875,3.62500125 2.375,3.375 C2.62500125,3.12499875 2.916665,3 3.25,3 L4,3 L4,2 L5.5,2 L5.5,3 L10.5,3 L10.5,2 Z M12.75,12.75 L12.75,6.125 L3.25,6.125 L3.25,12.75 L12.75,12.75 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="ion-android-calendar---Ionicons" fill="#767676" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/Box Blank- Partial Selection</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/Box-Blank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,12 C1,13.6568542 2.34314575,15 4,15 L12,15 C13.6568542,15 15,13.6568542 15,12 L15,4 C15,2.34314575 13.6568542,1 12,1 L4,1 Z M4,0 L12,0 C14.209139,-4.4408921e-16 16,1.790861 16,4 L16,12 C16,14.209139 14.209139,16 12,16 L4,16 C1.790861,16 2.96059473e-16,14.209139 0,12 L0,4 C-2.96059473e-16,1.790861 1.790861,2.96059473e-16 4,0 Z" id="Rectangle" fill="#979797" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#338533" fill-rule="nonzero" x="5" y="7" width="6" height="2"></rect>
+    </g>
+</svg>
